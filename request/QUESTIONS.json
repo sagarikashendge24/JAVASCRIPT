@@ -1,0 +1,12 @@
+{
+    "id": "1234",
+    "parent_exercise_id": "1233",
+    "name": "navgurukul-problems",
+    "slug": "samvaad-beginner__Cards/navgurukul-problems",
+    "sequence_num": 2001,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"\\n\\n## NavGurukul - Problems\\n\\n * What are three biggest problems faced by NavGurukul today?\\n* What steps can be taken to solve these problems?\\n\\n \\n\\n### Vocabulary\\n\\n 1. Spend: बिताना\\n2. Pursuing: पीछा करना\\n3. Effort: प्रयास है\\n4. Care - ध्यान\\n5. Responsibility - ज़िम्मेदारी\\n6. Concentration - एकाग्रता\\n7. Coyly -शर्मीले\\n8. Stack -ढेर\\n9. Knots -समुद्री मीलबुर्ज\\n10. Turrest -बुर्ज\\n11. Pity -दया\\n12. Praise -प्रशंसा\\n13. Sharp -तेज़\\n14. Exhibition -प्रदर्शनी\\n \"}]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/navgurukul-problems.md"
+}
